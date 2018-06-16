@@ -1,0 +1,19 @@
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Y.Titova\Documents\Visual Studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Администратор\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
