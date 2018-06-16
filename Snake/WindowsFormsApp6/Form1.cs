@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,7 +12,7 @@ namespace WindowsFormsApp6
 {
     public partial class Form1 : Form
     {
-        int n = 0, dir, score=0 ;
+        int n = 0, dir=3, score=0 ;
         bool keypress, gr = false;
         PictureBox[] massPicture = new PictureBox[100];
         
@@ -74,7 +74,7 @@ namespace WindowsFormsApp6
                 timer1.Enabled = false;
                 pictureBox1.Left = 223;
                 pictureBox1.Top = 203;
-                dir = 0;
+                dir = 3;
                 for (int i = 1; i <= n; i++)
                 {
                  massPicture[i].Dispose();
@@ -94,11 +94,13 @@ namespace WindowsFormsApp6
         //set direction
         {
             {
+
                 if (e.KeyCode == Keys.W && dir != 2 && keypress == false)
                 {
                     dir = 1;
                     keypress = true;
-                };
+                }
+                
                 if (e.KeyCode == Keys.S && dir != 1 && keypress == false)
                 {
                     dir = 2;
@@ -123,15 +125,15 @@ namespace WindowsFormsApp6
         {
 
            
-            Image bmp = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\Snake\\picture\\snake2.png");
+            Image bmp = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\snake\\picture\\snake2.png");
             {
                 
                 int x = massPicture[n].Top;
                 int y = massPicture[n].Left;
+                overFromBorder();
                 for (int i=n; i>0; i--)
                     {
                     overFromTail(i);
-                    overFromBorder();
                     massPicture[i].BringToFront();
                     //move
                     massPicture[i].Top = massPicture[i-1].Top;
@@ -193,7 +195,7 @@ namespace WindowsFormsApp6
                     massPicture[n].Top = x;
                     massPicture[n].Left = y;
                     massPicture[n].BackColor = System.Drawing.Color.Orange;
-                    massPicture[n].Image = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\Snake\\picture\\snake5.png");
+                    massPicture[n].Image = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\snake\\picture\\snake5.png");
                     massPicture[n].Size = new System.Drawing.Size(19, 19);
                     Controls.Add(massPicture[n]);
                     randomApple();
