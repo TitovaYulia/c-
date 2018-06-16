@@ -123,7 +123,7 @@ namespace WindowsFormsApp6
         {
 
            
-            Image bmp = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\WindowsFormsApp6\\picture\\snake2.png");
+            Image bmp = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\Snake\\picture\\snake2.png");
             {
                 
                 int x = massPicture[n].Top;
@@ -193,7 +193,7 @@ namespace WindowsFormsApp6
                     massPicture[n].Top = x;
                     massPicture[n].Left = y;
                     massPicture[n].BackColor = System.Drawing.Color.Orange;
-                    massPicture[n].Image = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\WindowsFormsApp6\\picture\\snake5.png");
+                    massPicture[n].Image = Image.FromFile("C:\\Users\\Администратор\\source\\repos\\Snake\\picture\\snake5.png");
                     massPicture[n].Size = new System.Drawing.Size(19, 19);
                     Controls.Add(massPicture[n]);
                     randomApple();
